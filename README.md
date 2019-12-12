@@ -1,2 +1,3 @@
-# TidyTuesday-2019-wk50
-TidyTuesday exercise
+# TidyTuesday contributions
+
+My tidy tuesday contributions >> starting from week 50, 2019
